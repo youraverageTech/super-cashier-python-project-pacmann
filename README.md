@@ -24,9 +24,6 @@ Untuk membuat sebuah program kasir yang dapat menambahkan, mengubah, menghapus i
 
 4. Menampilkan Total belanja
 
-<<<<<<< HEAD
-![image](https://github.com/user-attachments/assets/b718e6e2-3269-4047-89c5-b89167607ed6)
-=======
 ![image](https://github.com/user-attachments/assets/b718e6e2-3269-4047-89c5-b89167607ed6)
 
 
@@ -35,4 +32,3 @@ Untuk membuat sebuah program kasir yang dapat menambahkan, mengubah, menghapus i
 
 
 
->>>>>>> fd7273e4c2b4581d614f3754ef7f74e1593bbace
