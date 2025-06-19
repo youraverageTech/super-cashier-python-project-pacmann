@@ -3,15 +3,6 @@ import time
 
 trnsc_123 = transaction()
 
-try :
-    nama_i = input('Masukkan Nama Item : ')
-    jumlah_i = int(input('Masukkan Jumlah Item : '))
-    harga_i = int(input('Masukkan Harga Item : '))
-    trnsc_123.add_item([nama_i,jumlah_i,harga_i])
-    print("")
-except ValueError : 
-    print('Kesalahan dalam memasukkan Input yang diperlukan')
-
 while True:
     # Membuat Opsi pilihan action
     print('Menu :')
